@@ -33,6 +33,10 @@ Builds the web app for production.
 
 Removes the `dist/` folder.
 
+### `npm run type-check`
+
+Performs type checking.
+
 ## License
 
 [MIT](LICENSE)
