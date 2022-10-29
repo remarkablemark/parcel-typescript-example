@@ -31,7 +31,7 @@ Builds the web app for production.
 
 ### `npm run clean`
 
-Removes the `dist/` folder.
+Removes the `.parcel-cache` and `dist` directories.
 
 ### `npm run type-check`
 
