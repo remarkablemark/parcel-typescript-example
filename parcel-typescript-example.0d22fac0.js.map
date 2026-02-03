@@ -1,0 +1,1 @@
+{"mappings":"ACAA,QAAQ,GAAG,CAAC","sources":["<anon>","src/app.ts"],"sourcesContent":["var $36d5a33d9da87b96$exports = {};\nconsole.log('Hello world!');\n\n\n//# sourceMappingURL=parcel-typescript-example.0d22fac0.js.map\n","console.log('Hello world!');\n"],"names":["console","log"],"version":3,"file":"parcel-typescript-example.0d22fac0.js.map"}
